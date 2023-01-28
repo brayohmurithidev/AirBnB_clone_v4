@@ -154,8 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Alexa Orrico - [Github](https://github.com/brayohmurithidev) / [Linkedin](https://www.linkedin.com/in/brian-murithi/)
+Williams Olamide Joseph <https://github.com/circleofwillams>
+Brian Murithi <https://github.com/brayohmurithidev>
 
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 

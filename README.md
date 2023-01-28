@@ -154,8 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Williams Olamide Joseph <https://github.com/circleofwillams>
-Brian Murithi <https://github.com/brayohmurithidev>
+Williams Olamide Joseph (Github)[https://github.com/circleofwillams]
+Brian Murithi (Github)[https://github.com/brayohmurithidev]
 
 ## License
 Public Domain. No copy write protection. 
